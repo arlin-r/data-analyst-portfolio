@@ -17,7 +17,7 @@ The goal was to practice **data cleaning** and **basic sales analysis** using pi
    - 💰 Revenue by category  
 
 ## 📂 Files
-- **`proyect1.xlsx`** → Cleaned dataset with different analysis sheets:
+- **`sales_Data`** → Cleaned dataset with different analysis sheets:
   - `per months` → sales summarized by month  
   - `per products` → sales summarized by product  
   - `per revenue` → revenue analysis  
